@@ -3,7 +3,7 @@ Bacharela em Direito  (UBC);
 Pós-graduanda em Segurança da Informação  e Gestão de T.I (FMU).
 Atualmente, estou  aprendendo muito aqui no Dio, no Bootcamp  do Banco Santander de Cibersegurança onde quero aprender cada vez mais para atuar na minha tão sonhada carreira de Cibersegurança!
 
-📫 How to reach me 
+📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisca-paula/
 
