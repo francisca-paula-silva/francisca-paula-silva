@@ -1,3 +1,4 @@
+
 Francisca Paula
 Eu me chamo Francisca Paula atualmente sou Tecnóloga  em GTI ( Gestão de Tecnologia da Informação ) pela (FATEC); 
 Bacharela em Direito  ( UBC ); 
@@ -6,7 +7,6 @@ Atualmente, estou  aprendendo muito aqui no Dio, no Bootcamp  do banco Santander
 📫 How to reach me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisca-paula/
-
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:franciscapaula.silva@ymail.com)
 
 - 👀 I’m interested in ingressar na carreira de Cibersegurança.
