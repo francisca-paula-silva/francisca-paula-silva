@@ -13,7 +13,8 @@ Atualmente, estou  aprendendo muito aqui no Dio, no Bootcamp  do banco Santander
 - 👀 I’m interested in ingressar na carreira de Cibersegurança.
 - 🌱 I’m currently learning sobre Cibersegurança no Bootcamp Santander de Cibersegurança.
 - 💞️ I’m looking to collaborate on Repositório do LAB Contribuindo em um Projeto Open Source no Git Hub da Digital  Inovation One.
--  
+- (https://streak-stats.demolab.com?user=francisca-paula-silva&theme=modern-lilac&hide_border=)](https://git.io/streak-stats)
+  
 
 <!---
 francisca-paula-silva/francisca-paula-silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
