@@ -1,7 +1,6 @@
-
-Eu me chamo Francisca Paula atualmente sou Tecnóloga  em GTI ( Gestão de Tecnologia da Informação ) pela (FATEC) 
-Bacharela em Direito  ( UBC )
-Pós-graduanda em Segurança da Informação  e Gestão de T.I ( FMU).
+Eu me chamo Francisca Paula atualmente sou Tecnóloga  em GTI ( Gestão de Tecnologia da Informação ) pela (FATEC);
+Bacharela em Direito  (UBC);
+Pós-graduanda em Segurança da Informação  e Gestão de T.I (FMU).
 Atualmente, estou  aprendendo muito aqui no Dio, no Bootcamp  do banco Santander de Cibersegurança onde quero aprender cada vez mais para atuar na minha tão sonhada carreira de Cibersegurança!
 
 📫 How to reach me 
